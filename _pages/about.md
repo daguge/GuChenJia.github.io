@@ -15,7 +15,7 @@ redirect_from:
 **Postdoctoral Researcher / Assistant Research Fellow**
 School of Electrical Engineering, Sichuan University
 
-I conduct research on **planning and operation of low-carbon power and integrated energy systems under deep uncertainty**, with a focus on climate-aware energy transition, renewable integration, and resilient power system planning.
+I conduct research on **planning and operation of low-carbon power systems and integrated energy systems under deep uncertainty**, with a focus on renewable integration, energy storage planning, and climate-aware energy transition.
 
 ---
 
@@ -30,7 +30,7 @@ My research develops optimization and decision-making methodologies that bridge:
 * Climate uncertainty modeling
 * Data-driven operational strategies
 
-The goal is to enable **reliable and economically sustainable energy transition pathways**.
+The goal is to enable reliable and economically sustainable energy transition pathways.
 
 ---
 
@@ -38,7 +38,7 @@ The goal is to enable **reliable and economically sustainable energy transition 
 
 Dr. Chenjia Gu received his Ph.D. in Electrical Engineering from Xi’an Jiaotong University and was a joint Ph.D. researcher at Stevens Institute of Technology, USA, supervised by Prof. Lei Wu (IEEE Fellow).
 
-He is currently a Postdoctoral Researcher at Sichuan University. His work focuses on low-carbon power system planning, integrated energy system optimization, and climate-aware infrastructure development.
+He is currently a Postdoctoral Researcher at Sichuan University. His research focuses on low-carbon power system planning, integrated energy system optimization, and climate-aware infrastructure development.
 
 He has participated in national-level research programs including the National Key R&D Program of China and major industry projects with China Southern Power Grid.
 
@@ -48,7 +48,7 @@ He has participated in national-level research programs including the National K
 
 * Planning and operation of new-type power systems
 * Integrated electricity–gas–hydrogen energy systems
-* Renewable energy and energy storage planning
+* Renewable energy integration and energy storage planning
 * Climate-aware power system expansion
 * Resilience and uncertainty-aware optimization
 
