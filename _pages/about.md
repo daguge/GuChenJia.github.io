@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chenjia Gu"
+title: "Personal Profile"
 author_profile: true
 redirect_from:
 
@@ -8,8 +8,6 @@ redirect_from:
 - /about.html
 
 ---
-
-# Chenjia Gu
 
 **Postdoctoral Researcher / Assistant Research Fellow**
 School of Electrical Engineering, Sichuan University
