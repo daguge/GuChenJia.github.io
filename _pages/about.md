@@ -1,5 +1,4 @@
 ---
-
 permalink: /
 title: "Chenjia Gu"
 author_profile: true
